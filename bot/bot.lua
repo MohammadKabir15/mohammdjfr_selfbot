@@ -240,7 +240,7 @@ function create_config( )
      "tools",
      "weather",
      "spam1",
-     "",
+     "spam2",
      },
     sudo_users = {110453176,183342278},
     admin_users = {},
